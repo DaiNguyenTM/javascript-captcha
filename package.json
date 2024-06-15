@@ -1,0 +1,21 @@
+{
+  "name": "javascript-captcha",
+  "version": "4.5.0-RC2",
+  "description": "BotDetect CAPTCHA JavaScript Plugin",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/captcha-com/javascript-captcha.git"
+  },
+  "keywords": [
+    "captcha",
+    "javascript captcha",
+    "captcha generator",
+    "javascript captcha plugin",
+    "botdetect"
+  ],
+  "author": "BotDetect CAPTCHA",
+  "bugs": {
+    "url": "https://github.com/captcha-com/javascript-captcha/issues"
+  },
+  "homepage": "https://github.com/captcha-com/javascript-captcha#readme"
+}
